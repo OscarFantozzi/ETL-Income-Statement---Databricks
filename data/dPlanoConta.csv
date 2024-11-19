@@ -1,0 +1,130 @@
+﻿id,index,descricaoN1,descricaoN2,detalharN2,mascaraDRE_id,tipoLancamento
+01.01.01,1,Sales of products,Sales of products,0,1.01,1
+01.01.02,2,Sales of services,Sales of services,0,1.01,1
+01.02.01,3,Cancelled sales or sales returns,Cancelled sales or sales returns,0,1.02,-1
+01.02.02,4,Unconditional discounts,Unconditional discounts,0,1.02,-1
+01.02.03,5,Allowances,Allowances,0,1.02,-1
+01.02.04,6,Sales taxes,ICMS (Brazilian VAT),1,1.02,-1
+01.02.05,7,Sales taxes,PIS (Brazilian Social Contribution Tax),1,1.02,-1
+01.02.06,8,Sales taxes,COFINS (Brazilian Contribution for Social Security Financing),1,1.02,-1
+01.02.07,9,Sales taxes,IPI (Brazilian Excise Tax),1,1.02,-1
+01.04.01,10,Cost of goods sold,Cost of goods sold,0,1.04,-1
+01.04.02,11,Cost of services rendered,Cost of services rendered,0,1.04,-1
+01.06.01,12,Administrative expenses,Payroll,1,1.06,-1
+01.06.02,13,Administrative expenses,Overtime,1,1.06,-1
+01.06.03,14,Administrative expenses,Vacation,1,1.06,-1
+01.06.04,15,Administrative expenses,13th Salary,1,1.06,-1
+01.06.05,16,Administrative expenses,Social assistance,1,1.06,-1
+01.06.06,17,Administrative expenses,Dental plan,1,1.06,-1
+01.06.07,18,Administrative expenses,Health plan,1,1.06,-1
+01.06.08,19,Administrative expenses,Cost aid,1,1.06,-1
+01.06.09,20,Administrative expenses,Training,1,1.06,-1
+01.06.10,21,Administrative expenses,Other employee benefits,1,1.06,-1
+01.06.11,22,Administrative expenses,Recruitment and selection,1,1.06,-1
+01.06.12,23,Administrative expenses,Travel expenses,1,1.06,-1
+01.06.13,24,Administrative expenses,Software licenses,1,1.06,-1
+01.06.14,25,Administrative expenses,Office supplies,1,1.06,-1
+01.06.15,26,Administrative expenses,Maintenance and repairs,1,1.06,-1
+01.06.16,27,Administrative expenses,Cleaning and conservation,1,1.06,-1
+01.06.17,28,Administrative expenses,Rent,1,1.06,-1
+01.06.18,29,Administrative expenses,Water,1,1.06,-1
+01.06.19,30,Administrative expenses,Energy,1,1.06,-1
+01.06.20,31,Administrative expenses,Telephone,1,1.06,-1
+01.06.21,32,Administrative expenses,Internet,1,1.06,-1
+01.06.22,33,Commercial expenses,Advertising,1,1.06,-1
+01.06.23,34,Commercial expenses,Promotion,1,1.06,-1
+01.06.24,35,Commercial expenses,Events,1,1.06,-1
+01.07.01,36,Financial expense,Interest on arrears,1,1.07,-1
+01.07.02,37,Financial expense,IOF (Brazilian Tax on Financial Operations),1,1.07,-1
+01.09.01,38,Depreciation,Depreciation,0,1.09,-1
+01.09.02,39,Amortization,Amortization,0,1.09,-1
+01.10.01,40,Other expenses,Other expenses,0,1.1,-1
+01.10.02,41,Other income,Other income,0,1.1,1
+01.12.01,42,IRPJ (Brazilian Corporate Income Tax),IRPJ (Brazilian Corporate Income Tax),0,1.12,-1
+01.12.02,43,CSLL (Brazilian Social Contribution on Net Profit),CSLL (Brazilian Social Contribution on Net Profit),0,1.12,-1
+02.01.01,1,Sales of products,Sales of products,0,2.01,1
+02.01.02,2,Sales of services,Sales of services,0,2.01,1
+02.02.01,3,Cancelled sales or sales returns,Cancelled sales or sales returns,0,2.02,-1
+02.02.02,4,Unconditional discounts,Unconditional discounts,0,2.02,-1
+02.02.03,5,Allowances,Allowances,0,2.02,-1
+02.02.04,6,Sales taxes,ICMS (Brazilian VAT),1,2.02,-1
+02.02.05,7,Sales taxes,PIS (Brazilian Social Contribution Tax),1,2.02,-1
+02.02.06,8,Sales taxes,COFINS (Brazilian Contribution for Social Security Financing),1,2.02,-1
+02.02.07,9,Sales taxes,IPI (Brazilian Excise Tax),1,2.02,-1
+02.04.01,10,Cost of goods sold,Cost of goods sold,0,2.04,-1
+02.04.02,11,Cost of services rendered,Cost of services rendered,0,2.04,-1
+02.06.01,12,Administrative expenses,Payroll,1,2.06,-1
+02.06.02,13,Administrative expenses,Overtime,1,2.06,-1
+02.06.03,14,Administrative expenses,Vacation,1,2.06,-1
+02.06.04,15,Administrative expenses,13th Salary,1,2.06,-1
+02.06.05,16,Administrative expenses,Social assistance,1,2.06,-1
+02.06.06,17,Administrative expenses,Dental plan,1,2.06,-1
+02.06.07,18,Administrative expenses,Health plan,1,2.06,-1
+02.06.08,19,Administrative expenses,Cost aid,1,2.06,-1
+02.06.09,20,Administrative expenses,Training,1,2.06,-1
+02.06.10,21,Administrative expenses,Other employee benefits,1,2.06,-1
+02.06.11,22,Administrative expenses,Recruitment and selection,1,2.06,-1
+02.06.12,23,Administrative expenses,Travel expenses,1,2.06,-1
+02.06.13,24,Administrative expenses,Software licenses,1,2.06,-1
+02.06.14,25,Administrative expenses,Office supplies,1,2.06,-1
+02.06.15,26,Administrative expenses,Maintenance and repairs,1,2.06,-1
+02.06.16,27,Administrative expenses,Cleaning and conservation,1,2.06,-1
+02.06.17,28,Administrative expenses,Rent,1,2.06,-1
+02.06.18,29,Administrative expenses,Water,1,2.06,-1
+02.06.19,30,Administrative expenses,Energy,1,2.06,-1
+02.06.20,31,Administrative expenses,Telephone,1,2.06,-1
+02.06.21,32,Administrative expenses,Internet,1,2.06,-1
+02.06.22,33,Commercial expenses,Advertising,1,2.06,-1
+02.06.23,34,Commercial expenses,Promotion,1,2.06,-1
+02.06.24,35,Commercial expenses,Events,1,2.06,-1
+02.07.01,36,Financial expense,Interest on arrears,1,2.07,-1
+02.07.02,37,Financial expense,IOF (Brazilian Tax on Financial Operations),1,2.07,-1
+02.09.01,38,Depreciation,Depreciation,0,2.09,-1
+02.09.02,39,Amortization,Amortization,0,2.09,-1
+02.10.01,40,Other expenses,Other expenses,0,2.1,-1
+02.10.02,41,Other income,Other income,0,2.1,1
+02.12.01,42,IRPJ (Brazilian Corporate Income Tax),IRPJ (Brazilian Corporate Income Tax),0,2.12,-1
+02.12.02,43,CSLL (Brazilian Social Contribution on Net Profit),CSLL (Brazilian Social Contribution on Net Profit),0,2.12,-1
+03.01.01,1,Sales of products,Sales of products,0,3.01,1
+03.01.02,2,Sales of services,Sales of services,0,3.01,1
+03.02.01,3,Cancelled sales or sales returns,Cancelled sales or sales returns,0,3.02,-1
+03.02.02,4,Unconditional discounts,Unconditional discounts,0,3.02,-1
+03.02.03,5,Allowances,Allowances,0,3.02,-1
+03.02.04,6,Sales taxes,ICMS (Brazilian VAT),1,3.02,-1
+03.02.05,7,Sales taxes,PIS (Brazilian Social Contribution Tax),1,3.02,-1
+03.02.06,8,Sales taxes,COFINS (Brazilian Contribution for Social Security Financing),1,3.02,-1
+03.02.07,9,Sales taxes,IPI (Brazilian Excise Tax),1,3.02,-1
+03.04.01,10,Cost of goods sold,Cost of goods sold,0,3.04,-1
+03.04.02,11,Cost of services rendered,Cost of services rendered,0,3.04,-1
+03.06.01,12,Administrative expenses,Payroll,1,3.06,-1
+03.06.02,13,Administrative expenses,Overtime,1,3.06,-1
+03.06.03,14,Administrative expenses,Vacation,1,3.06,-1
+03.06.04,15,Administrative expenses,13th Salary,1,3.06,-1
+03.06.05,16,Administrative expenses,Social assistance,1,3.06,-1
+03.06.06,17,Administrative expenses,Dental plan,1,3.06,-1
+03.06.07,18,Administrative expenses,Health plan,1,3.06,-1
+03.06.08,19,Administrative expenses,Cost aid,1,3.06,-1
+03.06.09,20,Administrative expenses,Training,1,3.06,-1
+03.06.10,21,Administrative expenses,Other employee benefits,1,3.06,-1
+03.06.11,22,Administrative expenses,Recruitment and selection,1,3.06,-1
+03.06.12,23,Administrative expenses,Travel expenses,1,3.06,-1
+03.06.13,24,Administrative expenses,Software licenses,1,3.06,-1
+03.06.14,25,Administrative expenses,Office supplies,1,3.06,-1
+03.06.15,26,Administrative expenses,Maintenance and repairs,1,3.06,-1
+03.06.16,27,Administrative expenses,Cleaning and conservation,1,3.06,-1
+03.06.17,28,Administrative expenses,Rent,1,3.06,-1
+03.06.18,29,Administrative expenses,Water,1,3.06,-1
+03.06.19,30,Administrative expenses,Energy,1,3.06,-1
+03.06.20,31,Administrative expenses,Telephone,1,3.06,-1
+03.06.21,32,Administrative expenses,Internet,1,3.06,-1
+03.06.22,33,Commercial expenses,Advertising,1,3.06,-1
+03.06.23,34,Commercial expenses,Promotion,1,3.06,-1
+03.06.24,35,Commercial expenses,Events,1,3.06,-1
+03.07.01,36,Financial expense,Interest on arrears,1,3.07,-1
+03.07.02,37,Financial expense,IOF (Brazilian Tax on Financial Operations),1,3.07,-1
+03.09.01,38,Depreciation,Depreciation,0,3.09,-1
+03.09.02,39,Amortization,Amortization,0,3.09,-1
+03.10.01,40,Other expenses,Other expenses,0,3.1,-1
+03.10.02,41,Other income,Other income,0,3.1,1
+03.12.01,42,IRPJ (Brazilian Corporate Income Tax),IRPJ (Brazilian Corporate Income Tax),0,3.12,-1
+03.12.02,43,CSLL (Brazilian Social Contribution on Net Profit),CSLL (Brazilian Social Contribution on Net Profit),0,3.12,-1
